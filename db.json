@@ -23,7 +23,8 @@
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "no_of_pics": "08",
       "id": 1,
-    },{
+    },
+    {
       "name": "Ferrari Enzo",
       "price": "1,250,000",
       "location": "California, USA",
@@ -34,7 +35,8 @@
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "no_of_pics": "08",
       "id": 2,
-    },{
+    },
+    {
       "name": "Ferrari Enzo",
       "price": "1,250,000",
       "location": "California, USA",
@@ -45,7 +47,8 @@
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "no_of_pics": "08",
       "id": 3,
-    },{
+    },
+    {
       "name": "Ferrari Enzo",
       "price": "1,250,000",
       "location": "California, USA",
