@@ -1,7 +1,7 @@
 [
     {
       "name": 'Ferrari Enzo',
-      "price": '1,250,000',
+      "price": '1250000',
       "location": 'California, USA',
       "type": 'Petrol',
       "mileage": '13,000 Miles',
