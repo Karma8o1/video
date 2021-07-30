@@ -9,7 +9,10 @@
       "engine": "3600 CC",
       "image":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-      "no_of_pics": "08"
+      "no_of_pics": "08",
+      "category":"Car",
+      "Date":"September 25,2021",
+      "Type":"Sell"
      
     },
     {
@@ -22,7 +25,10 @@
       "engine": "3600 CC",
       "image":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-      "no_of_pics": "08"
+      "no_of_pics": "08",
+      "category":"Car",
+      "Date":"September 25,2021",
+      "Type":"Sell"
       
     },
     {
@@ -35,7 +41,10 @@
       "engine": "3600 CC",
       "image":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-      "no_of_pics": "08"
+      "no_of_pics": "08",
+      "category":"Car",
+      "Date":"September 25,2021",
+      "Type":"Sell"
       
     },
     {
@@ -48,7 +57,10 @@
       "engine": "3600 CC",
       "image":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-      "no_of_pics": "08"
+      "no_of_pics": "08",
+      "category":"Car",
+      "Date":"September 25,2021",
+      "Type":"Sell"
       
     },
     {
@@ -61,7 +73,10 @@
       "engine": "3600 CC",
       "image":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-      "no_of_pics": "08"
+      "no_of_pics": "08",
+      "category":"Car",
+      "Date":"September 25,2021",
+      "Type":"Sell"
     }
     ]
 }
