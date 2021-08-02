@@ -13,8 +13,8 @@
       "category":"Car",
       "Date":"September 25,2021",
       "Type":"Sell",
-      "timestart":"August 14, 2019 12:00:00",
-      "timeend":"August 14, 2021 12:00:00"
+      "timestart":"Aug 14 2019 12:00:00 GMT+0500",
+      "timeend":"Aug 14 2021 12:00:00 GMT+0500"
      
     },
     {
@@ -31,8 +31,8 @@
       "category":"Car",
       "Date":"September 25,2021",
       "Type":"Sell",
-      "timestart":"August 14, 2019 12:00:00",
-      "timeend":"August 14, 2021 12:00:00"
+      "timestart":"Aug 14 2019 12:00:00 GMT+0500",
+      "timeend":"Aug 14 2021 12:00:00 GMT+0500"
       
     },
     {
@@ -49,8 +49,8 @@
       "category":"Car",
       "Date":"September 25,2021",
       "Type":"Sell",
-      "timestart":"August 14, 2019 12:00:00",
-      "timeend":"August 14, 2021 12:00:00"
+      "timestart":"Aug 14 2019 12:00:00 GMT+0500",
+      "timeend":"Aug 14 2021 12:00:00 GMT+0500"
       
     },
     {
@@ -67,9 +67,8 @@
       "category":"Car",
       "Date":"September 25,2021",
       "Type":"Sell",
-      "timestart":"August 14, 2019 12:00:00",
-      "timeend":"August 14, 2021 12:00:00"
-      
+      "timestart":"Aug 14 2019 12:00:00 GMT+0500",
+      "timeend":"Aug 14 2021 12:00:00 GMT+0500"      
     },
     {
       "id": 4,
@@ -85,8 +84,8 @@
       "category":"Car",
       "Date":"September 25,2021",
       "Type":"Sell",
-      "timestart":"August 14, 2019 12:00:00",
-      "timeend":"August 14, 2021 12:00:00"
+      "timestart":"Aug 14 2019 12:00:00 GMT+0500",
+      "timeend":"Aug 14 2021 12:00:00 GMT+0500"
     }
     ]
 }
