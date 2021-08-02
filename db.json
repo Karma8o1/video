@@ -8,10 +8,9 @@
       "mileage": "13,000 Miles",
       "engine": "3600 CC",
         "images":[
-            "image1":
         "https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-        "image2":"https://www.carscoops.com/wp-content/uploads/2020/03/Ferrari-F8-Tributo.jpg",
-        "image3":"https://www.hdcarwallpapers.com/walls/ferrari_f8_tributo_2019_4k_interior-HD.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2020/03/Ferrari-F8-Tributo.jpg",
+        "https://www.hdcarwallpapers.com/walls/ferrari_f8_tributo_2019_4k_interior-HD.jpg"
             
         ],
       "no_of_pics": "08",
